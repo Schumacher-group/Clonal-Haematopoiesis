@@ -11,7 +11,7 @@ import jax.random as jrnd
 from itertools import combinations
 
 
-key = jrnd.PRNGKey(758493)  # Random seed is explicit in JAX
+key = jrnd.PRNGKey(758493)  # Random seed is explicit in JAX12
 #region Non vectorised functions
 # Non vectorised 
 def compute_deterministic_size(cs, AO, DP, n_mutations):

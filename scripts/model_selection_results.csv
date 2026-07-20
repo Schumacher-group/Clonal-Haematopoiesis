@@ -1,0 +1,55 @@
+pipeline,s_true,h_true,rep,correct,log_ratio,p_a,p_b,elapsed_s,status
+hmm,0.3,0.0,0,1.0,664.6011554438394,4.291552954767916e-12,1e-300,5.408536709,ok
+det,0.3,0.0,0,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.3,0.0,1,1.0,20.218066906110412,7.52193964846144e-12,1.2466224753143325e-20,2.783646792,ok
+det,0.3,0.0,1,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.3,0.0,2,1.0,8.852623234258786,8.769881306475319e-14,1.2541465695213193e-17,2.6822990000000004,ok
+det,0.3,0.0,2,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.3,0.5,0,1.0,662.1816062073128,3.8178388559986636e-13,1e-300,2.6306332920000006,ok
+det,0.3,0.5,0,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.3,0.5,1,1.0,657.8013660661975,4.780831870726971e-15,1e-300,2.623231916,ok
+det,0.3,0.5,1,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.3,0.5,2,1.0,664.5240392607383,3.973043709679315e-12,1e-300,2.7826939159999995,ok
+det,0.3,0.5,2,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.3,1.0,0,1.0,664.738123489854,4.921516464815957e-12,1e-300,2.737801791999999,ok
+det,0.3,1.0,0,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.3,1.0,1,1.0,663.4671179588235,1.3807283869292446e-12,1e-300,2.6844702090000006,ok
+det,0.3,1.0,1,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.3,1.0,2,1.0,670.1966360677382,1.15531612343781e-09,1e-300,2.783886709000001,ok
+det,0.3,1.0,2,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.5,0.0,0,1.0,0.0,1e-300,1e-300,2.9570628329999984,ok
+det,0.5,0.0,0,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.5,0.0,1,1.0,0.0,1e-300,1e-300,2.802625666000001,ok
+det,0.5,0.0,1,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.5,0.0,2,1.0,0.0,1e-300,1e-300,2.714774792,ok
+det,0.5,0.0,2,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.5,0.5,0,1.0,0.0,1e-300,1e-300,2.538937416000003,ok
+det,0.5,0.5,0,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.5,0.5,1,1.0,0.0,1e-300,1e-300,2.9074842079999996,ok
+det,0.5,0.5,1,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.5,0.5,2,1.0,0.0,1e-300,1e-300,2.537446542000005,ok
+det,0.5,0.5,2,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.5,1.0,0,1.0,0.0,1e-300,1e-300,2.4973345419999973,ok
+det,0.5,1.0,0,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.5,1.0,1,1.0,0.0,1e-300,1e-300,2.540942208000004,ok
+det,0.5,1.0,1,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.5,1.0,2,1.0,0.0,1e-300,1e-300,2.519697709000006,ok
+det,0.5,1.0,2,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.7,0.0,0,1.0,0.0,1e-300,1e-300,2.6097361249999977,ok
+det,0.7,0.0,0,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.7,0.0,1,1.0,0.0,1e-300,1e-300,2.611693250000002,ok
+det,0.7,0.0,1,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.7,0.0,2,1.0,0.0,1e-300,1e-300,2.6407825000000003,ok
+det,0.7,0.0,2,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.7,0.5,0,1.0,0.0,1e-300,1e-300,2.476989666999998,ok
+det,0.7,0.5,0,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.7,0.5,1,1.0,0.0,1e-300,1e-300,2.5414739579999974,ok
+det,0.7,0.5,1,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.7,0.5,2,1.0,0.0,1e-300,1e-300,2.509542875000008,ok
+det,0.7,0.5,2,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.7,1.0,0,1.0,0.0,1e-300,1e-300,2.499363124999988,ok
+det,0.7,1.0,0,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.7,1.0,1,1.0,0.0,1e-300,1e-300,2.468325374999992,ok
+det,0.7,1.0,1,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
+hmm,0.7,1.0,2,1.0,0.0,1e-300,1e-300,2.439551457999997,ok
+det,0.7,1.0,2,,,,,,"error: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 2 and the array at index 1 has size 4"
